@@ -1,3 +1,3 @@
-reporting functions and views coming from postgres
+all datafixes either on corporate database or on premisces databases
 
 ---
